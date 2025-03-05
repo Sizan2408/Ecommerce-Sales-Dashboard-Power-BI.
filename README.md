@@ -1,5 +1,7 @@
 # Ecommerce Store Sales Dashboard 📊
 
+## Dashboard Link :https://app.powerbi.com/groups/me/reports/e9fd4a8c-2a13-4a82-b21a-01b4fee4a3df?ctid=2668b5d0-7189-40cd-a301-d607a36fb212&pbi_source=linkShare
+
 ## Overview  
 This project is an interactive Power BI dashboard that provides insights into Ecommerce sales performance. It helps businesses track total sales, profit, quantity sold, and key customer trends.The dashboard enables data-driven decision-making by visualizing important metrics and patterns.
 ## Features  
