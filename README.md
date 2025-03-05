@@ -16,9 +16,8 @@ This Power BI dashboard analyzes Ecommerce sales, profit, and customer behavior 
 - **Top 5 Customers:** `RANKX(ALL(data[Customer Name]), SUM(data[Total Sales]), , DESC, DENSE)`  
 
 ## Screenshots  
-[Dashboard Preview]([Screenshot 2025-03-04 035344](https://github.com/user-attachments/assets/3952c127-7abb-4192-ae0f-eb951daf9162)
-)  
-
+![Dashboard Preview](![Screenshot 2025-03-04 035344](https://github.com/user-attachments/assets/cce41cfa-2d28-4f44-919c-12b72caaad3d)
+) 
 ## How to Use  
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
