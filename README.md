@@ -1,23 +1,32 @@
 # Ecommerce Store Sales Dashboard 📊
 
 ## Overview  
-This Power BI dashboard analyzes Ecommerce sales, profit, and customer behavior using interactive visuals and DAX calculations.  
-
+This project is an interactive Power BI dashboard that provides insights into Ecommerce sales performance. It helps businesses track total sales, profit, quantity sold, and key customer trends.The dashboard enables data-driven decision-making by visualizing important metrics and patterns.
 ## Features  
-- Sales breakdown by category & sub-category  
-- Customer analysis (top buyers)  
-- Sales distribution by payment mode  
-- Geographical insights (sales by states & cities)  
+- ✅ Total Sales, Profit & Quantity Overview
+- ✅ Sales Breakdown by Category & Sub-Category
+- ✅ Customer Insights – Top Buyers & Sales Distribution
+- ✅ Payment Mode Analysis – Understanding Customer Preferences
+- ✅ Geographical Sales Insights – Performance by States & Cities
+- ✅ DAX-Powered Metrics & KPIs for Business Intelligence
 
 ## DAX Functions Used  
 - **Total Sales:** `SUM(data[Total Sales])`  
 - **Profit Margin (%):** `DIVIDE(SUM(data[Profit]), SUM(data[Total Sales])) * 100`  
 - **Previous Month Sales:** `CALCULATE(SUM(data[Total Sales]), PREVIOUSMONTH(data[Date]))`  
-- **Top 5 Customers:** `RANKX(ALL(data[Customer Name]), SUM(data[Total Sales]), , DESC, DENSE)`  
+- **Top 5 Customers:** `RANKX(ALL(data[Customer Name]), SUM(data[Total Sales]), , DESC, DENSE)`
+
+## Tools & Technologies Used
+- Power BI – Data Visualization & Business Intelligence
+- DAX (Data Analysis Expressions) – Custom calculations & measures
+- Power Query – Data transformation & modeling
+- Excel/CSV Dataset – Source data for visualization
+
 
 ## Screenshots  
 ![Dashboard Preview](![Screenshot 2025-03-04 035344](https://github.com/user-attachments/assets/cce41cfa-2d28-4f44-919c-12b72caaad3d)
 ) 
+
 ## How to Use  
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
@@ -26,6 +35,5 @@ This Power BI dashboard analyzes Ecommerce sales, profit, and customer behavior 
 ## Connect With Me  
 Let's discuss and improve our Power BI skills.  
 [LinkedIn](www.linkedin.com/in/sahanur-asif-sizan)  
-
----
+[Email](sasifsizan2408@gmail.com)
 
