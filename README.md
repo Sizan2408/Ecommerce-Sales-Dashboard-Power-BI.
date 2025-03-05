@@ -36,6 +36,6 @@ This project is an interactive Power BI dashboard that provides insights into Ec
 
 ## Connect With Me  
 Let's discuss and improve our Power BI skills.  
-[LinkedIn](www.linkedin.com/in/sahanur-asif-sizan)  
+[LinkedIn](https://www.linkedin.com/in/sahanur-asif-sizan)  
 [Email](sasifsizan2408@gmail.com)
 
